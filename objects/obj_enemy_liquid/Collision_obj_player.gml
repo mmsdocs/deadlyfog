@@ -1,0 +1,1 @@
+if (!other.is_driving_handcar) other.add_contamination(contamination);

@@ -1,0 +1,1 @@
+if (is_free and enemy_target == undefined) instance_destroy();

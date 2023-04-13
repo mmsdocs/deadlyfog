@@ -1,0 +1,1 @@
+if (!obj_game.is_paused) room_persistent = false;
